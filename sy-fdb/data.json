@@ -1,0 +1,8 @@
+[
+  {
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_fdb/master/dist/sy_fdb-0.0.1-py3-none-any.whl",
+    "python_dep": "&gt;=3.7.0",
+    "text": "sy_fdb-0.0.1"
+  }
+]
+

@@ -1,0 +1,8 @@
+[
+  {
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_lib/master/dist/sy_lib-0.0.1-py3-none-any.whl",
+    "python_dep": "&gt;=3.7.0",
+    "text": "sy_lib-0.0.1"
+  }
+]
+
