@@ -3,6 +3,11 @@
     "href": "https://raw.githubusercontent.com/synnada-ai/sy_k8s/master/dist/sy_k8s-0.0.1-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "sy_k8s-0.0.1"
+  },
+  {
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_k8s/master/dist/sy_k8s-0.0.2-py3-none-any.whl",
+    "python_dep": "&gt;=3.7.0",
+    "text": "sy_k8s-0.0.2"
   }
 ]
 
