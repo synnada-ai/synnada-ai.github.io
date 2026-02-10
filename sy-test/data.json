@@ -1,31 +1,31 @@
 [
   {
-    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/master/dist/sy_test-5.0.14-py3-none-any.whl",
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/main/dist/sy_test-5.0.14-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "sy_test-5.0.14"
   },
   {
-    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/master/dist/sy_test-5.0.15-py3-none-any.whl",
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/main/dist/sy_test-5.0.15-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "sy_test-5.0.15"
   },
   {
-    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/master/dist/sy_test-5.0.19-py3-none-any.whl",
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/main/dist/sy_test-5.0.19-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "sy_test-5.0.19"
   },
   {
-    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/master/dist/sy_test-5.0.20-py3-none-any.whl",
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/main/dist/sy_test-5.0.20-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "sy_test-5.0.20"
   },
   {
-    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/master/dist/sy_test-5.0.21-py3-none-any.whl",
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/main/dist/sy_test-5.0.21-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "sy_test-5.0.21"
   },
   {
-    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/master/dist/sy_test-5.0.22-py3-none-any.whl",
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_test/main/dist/sy_test-5.0.22-py3-none-any.whl",
     "python_dep": "&gt;=3.7.0",
     "text": "sy_test-5.0.22"
   }

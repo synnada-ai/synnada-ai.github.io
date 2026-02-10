@@ -1,0 +1,7 @@
+[
+  {
+    "href": "https://raw.githubusercontent.com/synnada-ai/sy_billing/main/dist/sy_billing-0.1.0-py3-none-any.whl",
+    "python_dep": "&gt;=3.11",
+    "text": "sy_billing-0.1.0"
+  }
+]
